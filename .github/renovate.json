@@ -3,9 +3,8 @@
 
   "extends": [
     "config:recommended",
-    ":disableRateLimiting",
     ":labels(dependencies,please code review)",
-    ":assignAndReview(MindTooth)"
+    ":assignAndReview(devstein)"
   ],
 
   "customManagers": [
